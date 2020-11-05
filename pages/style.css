@@ -1,0 +1,49 @@
+.backgrund {
+    background-image: url(https://i.stack.imgur.com/vhoa0.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    /* color: aquamarine !important; */
+    color: white !important;
+    font-size: large;
+    font-weight: 900;
+}
+
+header p {
+    color: gray;
+    font-size: small;
+    font-weight: 400;
+}
+
+a:hover {
+    /* background-color: black !important; */
+    border-radius: 50%;
+    color: rgb(255, 255, 255) !important;
+}
+
+.hash {
+    background-image: url(https://i.stack.imgur.com/vhoa0.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.hash p {
+    color: white;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+.bg-new {
+    background-color: dodgerblue !important;
+}
+
+.navheader {
+    border: rgb(12, 1, 144) 4px solid;
+    border-radius: 50%;
+    padding: 1px;
+}
